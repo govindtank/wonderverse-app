@@ -1,0 +1,21 @@
+{
+  "version": 202609260130,
+  "published_at": "2026-09-26T01:30:20.171504+00:00",
+  "story_count": 4,
+  "supported_locales": [
+    "gu",
+    "hi",
+    "ja",
+    "ar",
+    "es",
+    "en"
+  ],
+  "age_tiers": [
+    "toddler",
+    "cubs",
+    "explorers"
+  ],
+  "stories_checksum": "c9a2ca4b60337c205acee2e1c0050eb07c0747dd5b194736ce884b2cd5f29075",
+  "endpoint_stories": "content/stories.json",
+  "endpoint_manifest": "content/manifest.json"
+}
