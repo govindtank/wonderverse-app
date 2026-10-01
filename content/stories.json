@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "2026-09-21-toddler-sensory-safari",
+    "published_date": "2026-09-21",
+    "age_tier": "toddler",
+    "category": "Sensory & Animals",
+    "theme_moral": "Joyful friendship and giggly forest sunshine.",
+    "cultural_setting": "Sunny Gir Meadow & Safari",
+    "cover_emoji": "👶🦁",
+    "locales": {
+      "en": {
+        "title": "Little Lion's Sunny Safari",
+        "synopsis": "Tap the sunny meadow to meet baby animal friends and hear their happy songs!",
+        "lullaby_ambient": "Soft grass rustle and gentle xylophone chimes",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "Sun is shining bright! Little Lion wakes up and roars with a happy giggle: Roar!",
+            "highlight_word": "SUNNY",
+            "phonics_tip": "S-U-N shines warm on Little Lion's golden mane!",
+            "interactive_hotspot": {
+              "name": "Little Lion Cub",
+              "icon": "🦁",
+              "sound": "lion",
+              "reaction": "Baby Lion does a wobbly happy dance and giggles!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-yellow-100 to-emerald-100",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🦁",
+                "☀️",
+                "🌼",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "Baby Bunny hops in the green clover! Hop, hop, pop the colorful bubbles!",
+            "highlight_word": "HOP",
+            "phonics_tip": "H-O-P makes little feet bounce with joy!",
+            "interactive_hotspot": {
+              "name": "Bouncing Bunny",
+              "icon": "🐰",
+              "sound": "bunny",
+              "reaction": "Bunny wiggles its long pink ears and pops a bubble!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-rose-100 to-sky-100",
+              "accent_color": "#FF70A6",
+              "elements": [
+                "🐰",
+                "🫧",
+                "🌸",
+                "🌱"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "Little Owl sings a sweet night lullaby under the sparkling star. Good night, happy friends!",
+            "highlight_word": "STAR",
+            "phonics_tip": "S-T-A-R twinkles high up in the blue sky!",
+            "interactive_hotspot": {
+              "name": "Baby Owl",
+              "icon": "🦉",
+              "sound": "owl",
+              "reaction": "Owl blinks its big friendly eyes and sends star kisses!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-amber-100",
+              "accent_color": "#9D4EDD",
+              "elements": [
+                "🦉",
+                "🌙",
+                "⭐",
+                "💤"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "Who woke up with a happy sunny giggle?",
+          "options": [
+            "Little Lion Cub",
+            "A sleepy cloud",
+            "The big clock"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "toddler_smiles"
+        }
+      },
+      "hi": {
+        "title": "नन्हे शेर की सुनहरी सफारी",
+        "synopsis": "धूप खिले मैदान में नन्हे जानवरों से मिलें और उनकी मीठी आवाजें सुनें!",
+        "lullaby_ambient": "धीमी हवा और जलतरंग की मधुर धुन",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "सूरज चमक रहा है! नन्हा शेर शेरू हंसते हुए जागा: दहाड़!",
+            "highlight_word": "सूरज",
+            "phonics_tip": "सू-र-ज हमें रोशनी और गरमाहट देता है!",
+            "interactive_hotspot": {
+              "name": "नन्हा शेरू",
+              "icon": "🦁",
+              "sound": "lion",
+              "reaction": "शेरू खुशी से नाचने लगा!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-yellow-100 to-orange-100",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🦁",
+                "☀️",
+                "🌼",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "नन्हा खरगोश हरी घास में कूदा! उछल-उछल कर रंगीन बुलबुले फोड़े!",
+            "highlight_word": "उछलना",
+            "phonics_tip": "उ-छ-ल-ना यानी मस्ती में कूदना!",
+            "interactive_hotspot": {
+              "name": "नन्हा खरगोश",
+              "icon": "🐰",
+              "sound": "bunny",
+              "reaction": "खरगोश ने बुलबुले फोड़े!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-rose-100 to-emerald-100",
+              "accent_color": "#FF70A6",
+              "elements": [
+                "🐰",
+                "🫧",
+                "🌸",
+                "🌱"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "नन्हे उल्लू ने चमकते तारे के नीचे मीठी लोरी सुनाई। शुभ रात्रि प्यारे दोस्तों!",
+            "highlight_word": "तारा",
+            "phonics_tip": "ता-रा रात को आसमान में टिमटिमाता है!",
+            "interactive_hotspot": {
+              "name": "नन्हा उल्लू",
+              "icon": "🦉",
+              "sound": "owl",
+              "reaction": "उल्लू ने प्यार से पलकें झपकाईं!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-amber-100",
+              "accent_color": "#9D4EDD",
+              "elements": [
+                "🦉",
+                "🌙",
+                "⭐",
+                "💤"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "सुबह-सुबह कौन मुस्कुरा कर जागा?",
+          "options": [
+            "नन्हा शेर शेरू",
+            "नींद में सोता बादल",
+            "बड़ी घड़ी"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "toddler_smiles"
+        }
+      },
+      "gu": {
+        "title": "નાના બબ્બર શેરની સોનેરી સફારી",
+        "synopsis": "સોનેરી વનમાં નાના પશુ-પંખી મિત્રોને મળો અને મીઠો અવાજ સાંભળો!",
+        "lullaby_ambient": "ઝરણાનું પાણી અને હળવો જલતરંગ સૂર",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "મીઠો સૂરજ ઉગ્યો! નાનકડો બાબુભાઈ સિંહ હસતો હસતો જાગ્યો: ગર્જના!",
+            "highlight_word": "સૂરજ",
+            "phonics_tip": "સૂ-ર-જ એટલે સવારનું સુંદર અજવાળું!",
+            "interactive_hotspot": {
+              "name": "નાનો બાબુભાઈ",
+              "icon": "🦁",
+              "sound": "lion",
+              "reaction": "બાબુભાઈ આનંદથી કૂદવા લાગ્યા!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-orange-100 to-yellow-100",
+              "accent_color": "#FF9933",
+              "elements": [
+                "🦁",
+                "☀️",
+                "🌼",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "નાનું સસલું લીલા ઘાસમાં કૂદ્યું! ટપ ટપ કરતાં રંગબેરંગી પરપોટા ફોડ્યા!",
+            "highlight_word": "પરપોટા",
+            "phonics_tip": "પ-ર-પો-ટા પાણીના રંગીન ગોળા જેવા!",
+            "interactive_hotspot": {
+              "name": "નાનું સસલું",
+              "icon": "🐰",
+              "sound": "bunny",
+              "reaction": "સસલાએ લાંબા કાન હલાવી પરપોટા ફોડ્યા!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-rose-100 to-teal-100",
+              "accent_color": "#E91E63",
+              "elements": [
+                "🐰",
+                "🫧",
+                "🌸",
+                "🌱"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "નાના ઘુવડે ચમકતા તારા નીચે મીઠી હાલરડું ગાયું. શુભ રાત્રિ વાહલા મિત્રો!",
+            "highlight_word": "તારલો",
+            "phonics_tip": "તા-ર-લો આકાશમાં ટમટમ થતો દીવો!",
+            "interactive_hotspot": {
+              "name": "નાનું ઘુવડ",
+              "icon": "🦉",
+              "sound": "owl",
+              "reaction": "ઘુવડે મીઠી આંખો પટપટાવી!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-amber-100",
+              "accent_color": "#9D4EDD",
+              "elements": [
+                "🦉",
+                "🌙",
+                "⭐",
+                "💤"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "સવારે હસતા હસતા કોણ જાગ્યું?",
+          "options": [
+            "નાનો બાબુભાઈ સિંહ",
+            "ઊંઘતો વાદળ",
+            "મોટો પહાડ"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "toddler_smiles"
+        }
+      },
+      "ja": {
+        "title": "こいぬと こぎつねの ひだまり サファリ",
+        "synopsis": "ぽかぽか おひさまの もとで どうぶつの おともだちと あそぼう！",
+        "lullaby_ambient": "やさしい 風鈴と 小川の せせらぎ",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "おひさまが ぴかぴか！ こじかの ライオンちゃんが にこにこ めを さましました。",
+            "highlight_word": "たいよう",
+            "phonics_tip": "た・い・よ・う は あたたかい ひかり！",
+            "interactive_hotspot": {
+              "name": "こどもライオン",
+              "icon": "🦁",
+              "sound": "lion",
+              "reaction": "ライオンちゃんが うれしそうに ジャンプ！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-amber-100 to-emerald-100",
+              "accent_color": "#FB7185",
+              "elements": [
+                "🦁",
+                "☀️",
+                "🌸",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "うさぎちゃんが ぴょんぴょん！ カラフルな しゃぼんだまを ぽんぽん わったよ！",
+            "highlight_word": "ぴょんぴょん",
+            "phonics_tip": "うさぎさんが たのしく はねる おと！",
+            "interactive_hotspot": {
+              "name": "うさぎちゃん",
+              "icon": "🐰",
+              "sound": "bunny",
+              "reaction": "しゃぼんだまが ぱちんと はじけたよ！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-rose-100 to-sky-100",
+              "accent_color": "#F472B6",
+              "elements": [
+                "🐰",
+                "🫧",
+                "💮",
+                "🌱"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "ふくろうちゃんが おほしさまの もとで やさしい こもりうたを うたいました。おやすみなさい。",
+            "highlight_word": "ほし",
+            "phonics_tip": "ほ・し は よるの そらで きらきら ひかるよ！",
+            "interactive_hotspot": {
+              "name": "ふくろうちゃん",
+              "icon": "🦉",
+              "sound": "owl",
+              "reaction": "ふくろうちゃんが やさしく まばたき！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-pink-100",
+              "accent_color": "#9D4EDD",
+              "elements": [
+                "🦉",
+                "🌙",
+                "⭐",
+                "💤"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "あさ にこにこ おきたのは だあれ？",
+          "options": [
+            "こどもライオン",
+            "ねむい くも",
+            "おおきな とけい"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "toddler_smiles"
+        }
+      },
+      "ar": {
+        "title": "سفاري الأسد الصغير في الواحة المشمسة",
+        "synopsis": "المس الواحة الجميلة والتقِ بأصدقاء الحيوانات الصغار واستمع لأصواتهم السعيدة!",
+        "lullaby_ambient": "خرير الماء الهادئ وأنغام العود الناعمة",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "الشمس مشرقة ودافئة! استيقظ الأسد الصغير وهو يضحك بفرح: زئير لطيف!",
+            "highlight_word": "الشمس",
+            "phonics_tip": "الشمس تملأ الكون نوراً ودفئاً وسروراً!",
+            "interactive_hotspot": {
+              "name": "شبل الأسد",
+              "icon": "🦁",
+              "sound": "lion",
+              "reaction": "الشبل الصغير يقفز فرحاً!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-yellow-100 to-sky-100",
+              "accent_color": "#F59E0B",
+              "elements": [
+                "🦁",
+                "☀️",
+                "🌴",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "الأرنب الصغير يقفز في المرج الأخضر! قفز وطرق فقاعات الصابون الملونة!",
+            "highlight_word": "يقفز",
+            "phonics_tip": "القفز بمرح يملأ قلوبنا نشاطاً وسعادة!",
+            "interactive_hotspot": {
+              "name": "الأرنب الأبيض",
+              "icon": "🐰",
+              "sound": "bunny",
+              "reaction": "الأرنب يفرقع الفقاعات بمرح!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-rose-100 to-teal-100",
+              "accent_color": "#E11D48",
+              "elements": [
+                "🐰",
+                "🫧",
+                "🌸",
+                "🌱"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "البومة الصغيرة غنت تهويدة نوم رقيقة تحت النجوم اللامعة. تصبحون على خير يا أصدقائي!",
+            "highlight_word": "نجمة",
+            "phonics_tip": "النجوم تضيء سماء الليل بلطف وسكون!",
+            "interactive_hotspot": {
+              "name": "البومة الصغيرة",
+              "icon": "🦉",
+              "sound": "owl",
+              "reaction": "البومة ترفرف بجناحيها وترسل بريق النوم!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-amber-100",
+              "accent_color": "#9D4EDD",
+              "elements": [
+                "🦉",
+                "🌙",
+                "⭐",
+                "💤"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "من استيقظ مبكراً وهو يبتسم للشمس؟",
+          "options": [
+            "شبل الأسد الصغير",
+            "الغيمة النائمة",
+            "الساعة الكبيرة"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "toddler_smiles"
+        }
+      },
+      "es": {
+        "title": "El Safari Soleado del Pequeño León",
+        "synopsis": "¡Toca la pradera para conocer tiernos cachorros y escuchar sus alegres cantos!",
+        "lullaby_ambient": "Suave brisa tropical y notas dulces de marimba",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "¡El sol brilla radiante! El Pequeño León despierta feliz y da un rugido suave: ¡Ruge!",
+            "highlight_word": "SOLEADO",
+            "phonics_tip": "¡El S-O-L llena la selva de luz y alegría!",
+            "interactive_hotspot": {
+              "name": "Cachorro de León",
+              "icon": "🦁",
+              "sound": "lion",
+              "reaction": "¡El leoncito baila con saltitos alegres!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-rose-100 to-lime-100",
+              "accent_color": "#F43F5E",
+              "elements": [
+                "🦁",
+                "☀️",
+                "🌻",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "¡El Conejito salta en el prado! ¡Salta, salta y explota pompas de jabón mágicas!",
+            "highlight_word": "SALTAR",
+            "phonics_tip": "¡S-A-L-T-A-R llena nuestros pies de energía!",
+            "interactive_hotspot": {
+              "name": "Conejito Saltarín",
+              "icon": "🐰",
+              "sound": "bunny",
+              "reaction": "¡El conejito mueve sus orejitas y revienta burbujas!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-amber-100 to-cyan-100",
+              "accent_color": "#FBBF24",
+              "elements": [
+                "🐰",
+                "🫧",
+                "🌺",
+                "🌱"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "El Búho pequeño canta una dulce nana bajo la estrella brillante. ¡Buenas noches, amigos!",
+            "highlight_word": "ESTRELLA",
+            "phonics_tip": "¡La E-S-T-R-E-L-L-A brilla como una joyita en el cielo!",
+            "interactive_hotspot": {
+              "name": "Búho Bebé",
+              "icon": "🦉",
+              "sound": "owl",
+              "reaction": "¡El búho parpadea y envía besos de luz!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-amber-100",
+              "accent_color": "#9D4EDD",
+              "elements": [
+                "🦉",
+                "🌙",
+                "⭐",
+                "💤"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "¿Quién despertó riendo con el sol?",
+          "options": [
+            "El Pequeño Cachorro de León",
+            "Una nube dormilona",
+            "El reloj grande"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "toddler_smiles"
+        }
+      }
+    }
+  },
+  {
+    "id": "2026-09-22-brave-firefly",
+    "published_date": "2026-09-22",
+    "age_tier": "cubs",
+    "category": "Courage & Nature",
+    "theme_moral": "Even the smallest light can guide the whole forest home.",
+    "cultural_setting": "Enchanted Whispering Woods",
+    "cover_emoji": "✨🌲",
+    "locales": {
+      "en": {
+        "title": "The Brave Little Firefly and the Whispering Woods",
+        "synopsis": "Pip the tiny firefly was worried his glow was too small, until a baby hedgehog lost her way at dusk.",
+        "lullaby_ambient": "Gentle crickets and warm campfire chimes",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "High in the branches of the ancient Oak tree lived Pip, a warm little firefly with a golden light.",
+            "highlight_word": "GOLDEN",
+            "phonics_tip": "G-O-L-D-E-N makes a bright sound like the sun!",
+            "interactive_hotspot": {
+              "name": "Pip the Firefly",
+              "icon": "✨",
+              "sound": "sparkle",
+              "reaction": "Pip flashes his warm yellow light happily!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-emerald-100 to-teal-200",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🌳",
+                "🌿",
+                "✨",
+                "🍄"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "One evening, a little baby hedgehog named Hazel could not find her way back to her family burrow.",
+            "highlight_word": "FRIENDSHIP",
+            "phonics_tip": "When we help friends, our hearts feel warm and happy.",
+            "interactive_hotspot": {
+              "name": "Hazel the Hedgehog",
+              "icon": "🦔",
+              "sound": "pop",
+              "reaction": "Hazel sniffs the clover and giggles with joy!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-slate-100 via-indigo-100 to-sky-200",
+              "accent_color": "#48CAE4",
+              "elements": [
+                "🦔",
+                "🍂",
+                "🌸",
+                "🌲"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "Pip flickered his warm glow softly. Step by step, his gentle beam lit a safe, sparkling path home.",
+            "highlight_word": "LIGHT",
+            "phonics_tip": "L-I-G-H-T shines bright even in quiet nights!",
+            "interactive_hotspot": {
+              "name": "Sparkling Pathway",
+              "icon": "🌟",
+              "sound": "chime",
+              "reaction": "Magical dandelion seeds burst into glowing sparks!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-200 via-purple-100 to-amber-100",
+              "accent_color": "#FB8500",
+              "elements": [
+                "🌟",
+                "🏡",
+                "🦔",
+                "✨"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "How did Pip the firefly help little Hazel the hedgehog?",
+          "options": [
+            "By lighting a safe path with his warm glow",
+            "By singing a loud song",
+            "By flying away to sleep"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "firefly_brave"
+        }
+      },
+      "hi": {
+        "title": "नन्हा जुगनू और घने जंगल का जादुई प्रकाश",
+        "synopsis": "नन्हा जुगनू सोचता था कि उसका प्रकाश बहुत छोटा है, जब तक कि एक नन्हा साही रास्ता नहीं भूल गया।",
+        "lullaby_ambient": "बांसुरी की धीमी धुन और रात की ठंडी हवा",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "विशाल बरगद के पेड़ पर नन्हा जुगनू पीप रहता था, जिसके पास सुनहरी चमक थी।",
+            "highlight_word": "सुनहरी",
+            "phonics_tip": "सु-न-ह-री का मतलब होता है सोने जैसी सुंदर चमक!",
+            "interactive_hotspot": {
+              "name": "नन्हा जुगनू",
+              "icon": "✨",
+              "sound": "sparkle",
+              "reaction": "जुगनू ने अपनी सुनहरी रोशनी बिखेर दी!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-yellow-100 to-orange-200",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🌳",
+                "🪷",
+                "✨",
+                "🍃"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "शाम ढलते ही नन्ही साही अपनी माँ की कुटिया का रास्ता ढूंढने में परेशान हो गई।",
+            "highlight_word": "मित्रता",
+            "phonics_tip": "सच्चा मित्र वही जो मुश्किल समय में साथ निभाए।",
+            "interactive_hotspot": {
+              "name": "नन्ही साही",
+              "icon": "🦔",
+              "sound": "pop",
+              "reaction": "साही ने मुस्कुराकर जुगनू का धन्यवाद किया!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-rose-100 via-purple-100 to-amber-100",
+              "accent_color": "#EF476F",
+              "elements": [
+                "🦔",
+                "🌺",
+                "🌾",
+                "🌙"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "पीप ने अपनी रोशनी से फूलों भरी राह चमका दी और दोनों हँसते-हँसते घर पहुँच गए।",
+            "highlight_word": "प्रकाश",
+            "phonics_tip": "प्र-का-श हर अंधेरे को दूर कर देता है!",
+            "interactive_hotspot": {
+              "name": "फूलों की राह",
+              "icon": "🌼",
+              "sound": "chime",
+              "reaction": "रास्ते के सारे गेंदे के फूल खिल उठे!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-yellow-100 via-amber-200 to-emerald-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🌼",
+                "🏡",
+                "🦚",
+                "✨"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "नन्हे जुगनू ने साही की सहायता कैसे की?",
+          "options": [
+            "अपनी सुनहरी रोशनी से रास्ता दिखाकर",
+            "पेड़ पर छुपकर",
+            "जोर से सीटी बजाकर"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "firefly_brave"
+        }
+      },
+      "gu": {
+        "title": "નાનકડું આગિયું અને ગીરના વનનું અજવાળું",
+        "synopsis": "પીપ નામના નાના આગિયાને ચિંતા હતી કે તેનો પ્રકાશ બહુ ઓછો છે, પણ સાંજે નાનું સસલું રસ્તો ભૂલી ગયું ત્યારે...",
+        "lullaby_ambient": "ગીરના વનનો ધીમો પવન અને વાંસળીનો મીઠો સૂર",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "કેસર કેરીના ઘટાદાર આંબાના ઝાડ પર પીપ નામનો સોનેરી ચમકવાળો નાનો આગિયો રહેતો હતો.",
+            "highlight_word": "સોનેરી",
+            "phonics_tip": "સો-ને-રી એટલે સૂરજના તાપ જેવો સુંદર સોના જેવો રંગ!",
+            "interactive_hotspot": {
+              "name": "પીપ આગિયો",
+              "icon": "✨",
+              "sound": "sparkle",
+              "reaction": "પીપે પોતાની પીળીબત્તી જેવી સોનેરી ચમક ઝબૂકાવી!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-rose-100 to-orange-200",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🌳",
+                "🥭",
+                "✨",
+                "🍃"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "સાંજ પડતાં જ નાનકડું સસલું રસ્તો ભૂલી ગયું અને બાંધણીના ઓઢણા જેવી રંગબેરંગી ઝાડીઓમાં અટવાયું.",
+            "highlight_word": "દોસ્તી",
+            "phonics_tip": "દો-સ્તી એટલે એકબીજાને મદદ કરીને હસતાં રહેવું!",
+            "interactive_hotspot": {
+              "name": "નાનું સસલું",
+              "icon": "🐰",
+              "sound": "pop",
+              "reaction": "સસલું પીપનો પ્રકાશ જોઈને કૂદકા મારવા લાગ્યું!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-rose-100 via-amber-100 to-yellow-200",
+              "accent_color": "#FB8500",
+              "elements": [
+                "🐰",
+                "🌸",
+                "🌾",
+                "🌙"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "પીપે આગળ ઊડીને મીઠું અજવાળું પાથર્યું અને સસલાને સલામત તેના ઘર સુધી પહોંચાડી દીધું.",
+            "highlight_word": "અજવાળું",
+            "phonics_tip": "અ-જ-વા-ળું ગમે તેટલા અંધારાને એક ક્ષણમાં દૂર કરી દે છે!",
+            "interactive_hotspot": {
+              "name": "ફૂલોની કેડી",
+              "icon": "🌼",
+              "sound": "chime",
+              "reaction": "કેડી પરના બધા જ ગલગોટાના ફૂલો હસી ઊઠ્યા!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-yellow-100 via-orange-100 to-emerald-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🌼",
+                "🏡",
+                "🦁",
+                "✨"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "પીપ આગિયાએ સસલાની મદદ કેવી રીતે કરી?",
+          "options": [
+            "પોતાના સોનેરી અજવાળે સુરક્ષિત રસ્તો બતાવીને",
+            "ઝાડ પાછળ સંતાઈને",
+            "મોટેથી બૂમો પાડીને"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "firefly_brave"
+        }
+      },
+      "es": {
+        "title": "La Pequeña Luciérnaga y el Bosque Mágico",
+        "synopsis": "Pip creía que su luz era diminuta, hasta que un pequeño erizo se desorientó al atardecer.",
+        "lullaby_ambient": "Susurro de brisa marina y suaves notas de arpa",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "En lo alto de un gran roble vivía Pip, una pequeña luciérnaga con un brillo cálido y dorado.",
+            "highlight_word": "DORADO",
+            "phonics_tip": "¡DO-RA-DO brilla con alegría como los rayos del sol!",
+            "interactive_hotspot": {
+              "name": "Luciérnaga Pip",
+              "icon": "✨",
+              "sound": "sparkle",
+              "reaction": "¡Pip ilumina el aire con chispas doradas!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-orange-100 to-emerald-200",
+              "accent_color": "#FB8500",
+              "elements": [
+                "🌳",
+                "🌿",
+                "✨",
+                "🌺"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "Un pequeño erizo llamado Tito no encontraba el camino de regreso a su hogar entre las flores.",
+            "highlight_word": "AMISTAD",
+            "phonics_tip": "La amistad es el mejor tesoro del corazón.",
+            "interactive_hotspot": {
+              "name": "Erizo Tito",
+              "icon": "🦔",
+              "sound": "pop",
+              "reaction": "¡Tito aplaude feliz al ver la luz de Pip!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-sky-100 via-indigo-100 to-rose-100",
+              "accent_color": "#219EBC",
+              "elements": [
+                "🦔",
+                "🌻",
+                "🍃",
+                "🌅"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "Pip voló al frente con dulzura, guiando los pasos de Tito con un hermoso sendero de luz.",
+            "highlight_word": "VALOR",
+            "phonics_tip": "¡Ser valiente es ayudar a otros con una sonrisa!",
+            "interactive_hotspot": {
+              "name": "Sendero Mágico",
+              "icon": "🌟",
+              "sound": "chime",
+              "reaction": "¡Las mariposas nocturnas bailan al compás!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-purple-100 via-pink-100 to-amber-100",
+              "accent_color": "#7209B7",
+              "elements": [
+                "🌟",
+                "🏡",
+                "🦋",
+                "✨"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "¿Cómo ayudó Pip la luciérnaga a su nuevo amigo?",
+          "options": [
+            "Alumbrando un camino seguro y brillante",
+            "Cantando muy fuerte",
+            "Volando a dormir"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "firefly_brave"
+        }
+      },
+      "ja": {
+        "title": "小さなホタルと夜のふしぎな森",
+        "synopsis": "ピップは自分の光が小さいと心配していましたが、迷子のハリネズミさんに出会って…",
+        "lullaby_ambient": "静かな鈴虫の声と優しい琴の音",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "大きなクヌギの木の上に、やさしい金色のひかりをともすホタルのピップがすんでいました。",
+            "highlight_word": "きらきら",
+            "phonics_tip": "「き・ら・き・ら」お星さまみたいに輝く音だよ！",
+            "interactive_hotspot": {
+              "name": "ホタルのピップ",
+              "icon": "✨",
+              "sound": "sparkle",
+              "reaction": "ピップがぽわんとあたたかく光りました！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-teal-100 to-emerald-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🌳",
+                "🌸",
+                "✨",
+                "🎋"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "夕暮れ時、まいごになったハリネズミのハルちゃんが、おうちを探していました。",
+            "highlight_word": "おともだち",
+            "phonics_tip": "こまったときは、たすけあうと心がぽかぽかするね。",
+            "interactive_hotspot": {
+              "name": "ハルちゃん",
+              "icon": "🦔",
+              "sound": "pop",
+              "reaction": "ハルちゃんがピップを見つけてにっこり！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-pink-100",
+              "accent_color": "#9D4EDD",
+              "elements": [
+                "🦔",
+                "🍁",
+                "🌸",
+                "🌙"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "ピップが先頭をふわりと飛ぶと、足もとがきらきら光る一本の道になりました。",
+            "highlight_word": "あかり",
+            "phonics_tip": "小さなひかりも、みんなを幸せにできるよ！",
+            "interactive_hotspot": {
+              "name": "ひかりの小道",
+              "icon": "🌟",
+              "sound": "chime",
+              "reaction": "折り紙のお星さまが空へ舞いあがりました！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-pink-100 via-amber-100 to-sky-100",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🌟",
+                "🏡",
+                "🍡",
+                "✨"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "ピップはどうやってハルちゃんを助けてあげたかな？",
+          "options": [
+            "金色のひかりで道を明るく照らしてあげた",
+            "おおごえで叫んだ",
+            "寝てしまった"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "firefly_brave"
+        }
+      },
+      "ar": {
+        "title": "اليرقة المضيئة وغابة الأسرار الجميلة",
+        "synopsis": "كانت بيب تخشى أن ضوءها صغير جداً، حتى وجد قنفذ صغير نفسه بحاجة إلى نور يهتدي به.",
+        "lullaby_ambient": "نسيم الواحة الهادئ مع نغمات العود الرقيقة",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "فوق شجرة السنديان العريقة، عاشت الفراشة المضيئة بيب بنورها الذهبي البراق.",
+            "highlight_word": "النور",
+            "phonics_tip": "الـنـور ينشر الدفء والأمل في كل مكان!",
+            "interactive_hotspot": {
+              "name": "الفراشة بيب",
+              "icon": "✨",
+              "sound": "sparkle",
+              "reaction": "تتوهج بيب ببريق ذهبي ساحر!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-amber-100 via-yellow-100 to-orange-200",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🌳",
+                "🌴",
+                "✨",
+                "🌾"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "وعند الغروب، شعر القنفذ الصغير بالحيرة وهو يبحث عن طريق بيته وسط الزهور.",
+            "highlight_word": "الصداقة",
+            "phonics_tip": "الصداقة الحقيقية كنز ينير قلوبنا بالبهجة.",
+            "interactive_hotspot": {
+              "name": "القنفذ الصغير",
+              "icon": "🦔",
+              "sound": "pop",
+              "reaction": "يبتسم القنفذ فرحاً عند رؤية شعاع الأمل!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-indigo-100 via-purple-100 to-amber-100",
+              "accent_color": "#FB8500",
+              "elements": [
+                "🦔",
+                "🌸",
+                "🌿",
+                "🌙"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "طار بيب بلطف ورسم بنوره مساراً آمناً، حتى وصل الصديقان سالمين بسلام وسعادة.",
+            "highlight_word": "التعاون",
+            "phonics_tip": "التعاون يصنع المعجزات ويجمع الأحبة!",
+            "interactive_hotspot": {
+              "name": "مسار النجوم",
+              "icon": "🌟",
+              "sound": "chime",
+              "reaction": "تتفتح فوانيس النجوم في سماء الواحة!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-purple-200 via-amber-100 to-teal-100",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🌟",
+                "🏡",
+                "🌴",
+                "✨"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "كيف ساعدت الفراشة بيب صديقها القنفذ الصغير؟",
+          "options": [
+            "بإنارة طريق آمن له بنورها الذهبي",
+            "بالصراخ بصوت عالٍ",
+            "بالنوم فوق الشجرة"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "firefly_brave"
+        }
+      }
+    }
+  },
+  {
+    "id": "2026-09-23-peacock-rhythm",
+    "published_date": "2026-09-23",
+    "age_tier": "toddler",
+    "category": "Music & Colors",
+    "theme_moral": "Every creature has their own unique song to share with the world.",
+    "cultural_setting": "Lotus Lake of Rainbow Waters",
+    "cover_emoji": "🦚🎵",
+    "locales": {
+      "en": {
+        "title": "The Dancing Peacock and the Silver Lake",
+        "synopsis": "Mayur the peacock loved to dance whenever raindrops fell on the lotus pond.",
+        "lullaby_ambient": "Raindrops on lotus petals with gentle water ripples",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "Pitter-patter! Gentle raindrops tapped on the big round green lotus leaves.",
+            "highlight_word": "SPLASH",
+            "phonics_tip": "P-I-T-T-E-R P-A-T-T-E-R sounds like sweet rain music!",
+            "interactive_hotspot": {
+              "name": "Lotus Leaf",
+              "icon": "🪷",
+              "sound": "bubble",
+              "reaction": "Dewdrops slide down the leaf with musical notes!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-teal-100 via-cyan-100 to-sky-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🪷",
+                "💧",
+                "🌿",
+                "☁️"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "Mayur opened his dazzling feathers: emerald green, ocean sapphire, and sunny gold!",
+            "highlight_word": "RAINBOW",
+            "phonics_tip": "Look at all the bright colors blooming together!",
+            "interactive_hotspot": {
+              "name": "Mayur's Feathers",
+              "icon": "🦚",
+              "sound": "sparkle",
+              "reaction": "Mayur twirls and fans out his iridescent feathers!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-cyan-100 via-emerald-100 to-amber-200",
+              "accent_color": "#219EBC",
+              "elements": [
+                "🦚",
+                "✨",
+                "🌈",
+                "🪷"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "What colors were Mayur's feathers?",
+          "options": [
+            "Emerald, sapphire, and gold",
+            "All black",
+            "Only white"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "world_composer"
+        }
+      },
+      "hi": {
+        "title": "नाचता मोर और कमल सरोवर की ताल",
+        "synopsis": "मयूर मोर को बारिश की बूंदों पर नाचना और पंख फैलाना बहुत पसंद था।",
+        "lullaby_ambient": "कमल की पंखुड़ियों पर गिरती बूंदें और तबले की मीठी ताल",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "टिप-टिप, रिमझिम! कमल के पत्तों पर मीठी बारिश की बूँदें ताल बजाने लगीं।",
+            "highlight_word": "रिमझिम",
+            "phonics_tip": "रि-म-झि-म की ध्वनि कानों को बहुत सुहावनी लगती है!",
+            "interactive_hotspot": {
+              "name": "कमल का पत्ता",
+              "icon": "🪷",
+              "sound": "bubble",
+              "reaction": "पानी की बूँदें संगीत की तरह छलक उठीं!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-emerald-100 via-teal-100 to-cyan-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🪷",
+                "🌧️",
+                "💧",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "मयूर ने अपने नीले-हरे और सुनहरे पंख फैलाए और खुशी से झूम उठा!",
+            "highlight_word": "इंद्रधनुष",
+            "phonics_tip": "इंद्रधनुष में सात प्यारे और चमकीले रंग होते हैं!",
+            "interactive_hotspot": {
+              "name": "मयूर मोर",
+              "icon": "🦚",
+              "sound": "sparkle",
+              "reaction": "मोर ने घुंघरू जैसी खनक के साथ नृत्य किया!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-cyan-100 via-teal-100 to-yellow-200",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🦚",
+                "✨",
+                "🌈",
+                "🪷"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "मयूर मोर कब खुशी से नाचने लगा?",
+          "options": [
+            "बारिश की मीठी बूंदें गिरने पर",
+            "अंधेरा होने पर",
+            "सोते समय"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "world_composer"
+        }
+      },
+      "gu": {
+        "title": "નાચતો મોરલો અને કમળ સરોવરનો તાલ",
+        "synopsis": "મયૂર મોરલાને વરસાદની મીઠી હેલીમાં કમળ સરોવર કાંઠે ટહૂકા કરીને નાચવું ખૂબ ગમતું હતું.",
+        "lullaby_ambient": "વરસાદની ધીમી ઝરમર અને ઢોલકની મીઠી થાપ",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "ઝરમર ઝરમર! કમળના મોટા લીલા પાંદડા પર વરસાદની મીઠી બૂંદો તાલ વગાડવા લાગી.",
+            "highlight_word": "ઝરમર",
+            "phonics_tip": "ઝ-ર-મ-ર એટલે વરસાદનું વહાલું સંગીત!",
+            "interactive_hotspot": {
+              "name": "કમળનું પાન",
+              "icon": "🪷",
+              "sound": "bubble",
+              "reaction": "ઝાકળના બિંદુઓ મોતીની જેમ ચમકી ઊઠ્યા!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-emerald-100 via-teal-100 to-cyan-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🪷",
+                "🌧️",
+                "💧",
+                "🌿"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "મોરલાએ પોતાની નીલમ, પન્ના અને સોનેરી રંગની કળા કરી અને ટહૂકો કર્યો!",
+            "highlight_word": "મેઘધનુષ",
+            "phonics_tip": "મેઘધનુષમાં સાત સુંદર રંગો આકાશને શણગારે છે!",
+            "interactive_hotspot": {
+              "name": "મોરના પીંછા",
+              "icon": "🦚",
+              "sound": "sparkle",
+              "reaction": "મોરે ઘૂંઘરૂના રણકાર સાથે મનમોહક રાસ લીધો!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-cyan-100 via-teal-100 to-yellow-200",
+              "accent_color": "#FFB703",
+              "elements": [
+                "🦚",
+                "✨",
+                "🌈",
+                "🪷"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "મોરલો ક્યારે ખુશ થઈને નાચવા લાગ્યો?",
+          "options": [
+            "વરસાદની મીઠી બૂંદો પડવા લાગી ત્યારે",
+            "અંધારું થતાં",
+            "સૂતી વખતે"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "world_composer"
+        }
+      },
+      "es": {
+        "title": "El Pavo Real Danzante del Lago Plateado",
+        "synopsis": "A Mayur le encantaba bailar al compás de las gotas de lluvia sobre el estanque.",
+        "lullaby_ambient": "Gotas de lluvia sobre nenúfares y marimba suave",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "¡Plip, plop! Suaves gotas de lluvia tocaban música sobre las hojas verdes del estanque.",
+            "highlight_word": "MÚSICA",
+            "phonics_tip": "¡La naturaleza tiene su propio ritmo alegre!",
+            "interactive_hotspot": {
+              "name": "Hoja de Loto",
+              "icon": "🪷",
+              "sound": "bubble",
+              "reaction": "¡Las gotas de agua brillan como diamantes!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-teal-100 via-cyan-100 to-sky-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🪷",
+                "💧",
+                "🍃",
+                "☁️"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "¡Mayur desplegó su maravilloso plumaje de esmeralda, zafiro y oro brillante!",
+            "highlight_word": "COLORES",
+            "phonics_tip": "¡Los colores brillantes alegran nuestro día!",
+            "interactive_hotspot": {
+              "name": "Plumas de Mayur",
+              "icon": "🦚",
+              "sound": "sparkle",
+              "reaction": "¡Mayur baila girando con plumas de arcoíris!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-cyan-100 via-emerald-100 to-amber-200",
+              "accent_color": "#219EBC",
+              "elements": [
+                "🦚",
+                "✨",
+                "🌈",
+                "🪷"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "¿Qué hizo Mayur al escuchar la lluvia?",
+          "options": [
+            "Desplegó sus plumas y bailó feliz",
+            "Se escondió bajo una roca",
+            "Se puso triste"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "world_composer"
+        }
+      },
+      "ja": {
+        "title": "雨あがりのクジャクさんと虹色の湖",
+        "synopsis": "ハスの池にやさしい雨がふると、クジャクのマユールくんは羽をひろげてダンスを踊ります。",
+        "lullaby_ambient": "雨上がりのしずくと穏やかな水琴窟の響き",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "ポツン、ポツン！ みどりのハスの葉っぱに、やさしい雨のリズムがひびきます。",
+            "highlight_word": "ぽつぽつ",
+            "phonics_tip": "雨のおとは、自然が奏でるステキな音楽だね！",
+            "interactive_hotspot": {
+              "name": "ハスの葉",
+              "icon": "🪷",
+              "sound": "bubble",
+              "reaction": "水のしずくがコロコロ転がってキラリ！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-teal-100 via-cyan-100 to-sky-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🪷",
+                "💧",
+                "🌿",
+                "☁️"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "マユールくんが羽をパッとひろげると、エメラルドと青と金の虹が現れました！",
+            "highlight_word": "にじいろ",
+            "phonics_tip": "きれいな羽が風にゆれてキラキラひかるよ！",
+            "interactive_hotspot": {
+              "name": "マユールくんの羽",
+              "icon": "🦚",
+              "sound": "sparkle",
+              "reaction": "マユールくんがくるりと回ってごあいさつ！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-cyan-100 via-emerald-100 to-amber-200",
+              "accent_color": "#219EBC",
+              "elements": [
+                "🦚",
+                "✨",
+                "🌈",
+                "🪷"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "マユールくんの羽はどんな色をしていたかな？",
+          "options": [
+            "エメラルド、青、金色の虹色",
+            "まっくろ",
+            "灰色"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "world_composer"
+        }
+      },
+      "ar": {
+        "title": "الطاووس الراقص وبحيرة اللوتس الساحرة",
+        "synopsis": "كان الطاووس مَيّار يعشق الرقص كلما هطلت قطرات المطر العذبة على أوراق اللوتس.",
+        "lullaby_ambient": "خرير الماء الهادئ ورذاذ المطر على الزهور",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "تك تك! نقرت قطرات المطر اللطيفة على أوراق نبات اللوتس الخضراء الكبيرة.",
+            "highlight_word": "المطر",
+            "phonics_tip": "المطر ينعش الأرض ويعيد البسمة للزهور!",
+            "interactive_hotspot": {
+              "name": "ورقة اللوتس",
+              "icon": "🪷",
+              "sound": "bubble",
+              "reaction": "تتدحرج قطرات الندى كاللآلئ البراقة!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-teal-100 via-cyan-100 to-sky-200",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🪷",
+                "💧",
+                "🌿",
+                "☁️"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "فتح مَيّار ريشه الرائع: أخضر زمردي، أزرق ياقوتي، وذهب براق يسر الناظرين!",
+            "highlight_word": "الجمال",
+            "phonics_tip": "سبحان من أبدع جمال الطبيعة وتناسق ألوانها!",
+            "interactive_hotspot": {
+              "name": "ريش الطاووس",
+              "icon": "🦚",
+              "sound": "sparkle",
+              "reaction": "يستعرض الطاووس ألوانه البديعة بفخر وفرح!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-cyan-100 via-emerald-100 to-amber-200",
+              "accent_color": "#219EBC",
+              "elements": [
+                "🦚",
+                "✨",
+                "🌈",
+                "🪷"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "ماذا فعل الطاووس عندما بدأت قطرات المطر بالهطول؟",
+          "options": [
+            "فرد ريشه الجميل ورقص بسعادة",
+            "هرب واختبأ",
+            "نام فوراً"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "world_composer"
+        }
+      }
+    }
+  },
+  {
+    "id": "2026-09-24-cosmic-seven-sages",
+    "published_date": "2026-09-24",
+    "age_tier": "explorers",
+    "category": "Astronomy & Mythology",
+    "theme_moral": "Scientific curiosity and ancient wisdom light the pathways across the cosmos.",
+    "cultural_setting": "Cosmic Observatory & Celestial Starfield",
+    "cover_emoji": "🚀🌌",
+    "locales": {
+      "en": {
+        "title": "Chronicles of the Seven Star Sages: The Cosmic Compass",
+        "synopsis": "Join young astronomer Maya as she aligns the Saptarishi and Polaris constellation to unlock an ancient starlight beacon.",
+        "lullaby_ambient": "Cosmic synth drone and reverberating starlight chimes",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "Through the high-powered telescope of Mount Gir Observatory, Maya calibrated the spectral lens toward the Great Bear constellation.",
+            "highlight_word": "CALIBRATION",
+            "phonics_tip": "Calibration means setting precision instruments to record exact astronomical measurements.",
+            "interactive_hotspot": {
+              "name": "Spectral Telescope",
+              "icon": "🔭",
+              "sound": "chime",
+              "reaction": "The telescope lens aligns with Ursa Major and glows celestial blue!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#0A0E2A] via-[#141B4D] to-[#25104E]",
+              "accent_color": "#48CAE4",
+              "elements": [
+                "🔭",
+                "✨",
+                "🌌",
+                "🪐"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "Seven luminous stars—the Saptarishi—formed a stellar compass in the northern sky, pointing directly toward Polaris, the eternal North Star.",
+            "highlight_word": "NAVIGATION",
+            "phonics_tip": "Ancient navigators used the alignment of pointer stars Merak and Dubhe to find true north.",
+            "interactive_hotspot": {
+              "name": "Polaris Beacon",
+              "icon": "⭐",
+              "sound": "sparkle",
+              "reaction": "A geometric constellation beam pulses across the cosmos!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#100C2C] via-[#1F144D] to-[#0A1A3A]",
+              "accent_color": "#FFD166",
+              "elements": [
+                "⭐",
+                "📐",
+                "🛰️",
+                "✨"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "By decoding the mathematical pulse of the starlight frequencies, Maya energized the planetary satellite array, creating a cosmic beacon for all explorers.",
+            "highlight_word": "DISCOVERY",
+            "phonics_tip": "Every great scientific discovery begins with asking 'Why?' and observing nature.",
+            "interactive_hotspot": {
+              "name": "Satellite Quantum Beacon",
+              "icon": "🛰️",
+              "sound": "sparkle",
+              "reaction": "Quantum waves expand outward, unlocking the Starlight Explorer badge!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#08152B] via-[#0E2C4A] to-[#1F1042]",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🛰️",
+                "🌍",
+                "⚡",
+                "🌟"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "Which two pointer stars in the Saptarishi guide astronomers to find Polaris (the North Star)?",
+          "options": [
+            "Merak and Dubhe (Kratu and Pulaha)",
+            "Sirius and Betelgeuse",
+            "Vega and Altair"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "code_pioneer"
+        }
+      },
+      "gu": {
+        "title": "સપ્તર્ષિ નક્ષત્ર રહસ્ય: બ્રહ્માંડની સોનેરી દિશા",
+        "synopsis": "યુવાન ખગોળશાસ્ત્રી માયા સપ્તર્ષિ અને ધ્રુવ તારાની ખગોળીય ગણતરી કરી બ્રહ્માંડનું રહસ્ય ખોલે છે.",
+        "lullaby_ambient": "અવકાશી સૂરો અને હળવા તારલાની ચમક",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "ગીર વેધશાળાના શક્તિશાળી દૂરબીનમાંથી માયાએ રાત્રિના આકાશમાં ચમકતા સપ્તર્ષિ મંડળ પર લેન્સ ગોઠવ્યો.",
+            "highlight_word": "વેધશાળા",
+            "phonics_tip": "વે-ધ-શા-ળા એટલે તારાઓ અને ગ્રહોનો અભ્યાસ કરવાની આધુનિક જગ્યા!",
+            "interactive_hotspot": {
+              "name": "વિશાળ દૂરબીન",
+              "icon": "🔭",
+              "sound": "chime",
+              "reaction": "દૂરબીનનો લેન્સ નીલા પ્રકાશ સાથે ચમકી ઉઠ્યો!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#0A0E2A] via-[#141B4D] to-[#25104E]",
+              "accent_color": "#48CAE4",
+              "elements": [
+                "🔭",
+                "✨",
+                "🌌",
+                "🪐"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "ક્રતુ અને પુલહ નામના બે અગ્રીમ તારાઓ સીધી રેખામાં ઉત્તર દિશામાં અચળ ધ્રુવ તારા તરફ માર્ગદર્શન કરે છે.",
+            "highlight_word": "ધ્રુવતારો",
+            "phonics_tip": "ધ્રુ-વ-તા-રો સદીઓથી મુસાફરોને સાચી ઉત્તર દિશા બતાવે છે!",
+            "interactive_hotspot": {
+              "name": "ધ્રુવ તારો",
+              "icon": "⭐",
+              "sound": "sparkle",
+              "reaction": "સોનેરી પ્રકાશનો કિરણ સમગ્ર આકાશમાં ફેલાઈ ગયો!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#100C2C] via-[#1F144D] to-[#0A1A3A]",
+              "accent_color": "#FFD166",
+              "elements": [
+                "⭐",
+                "📐",
+                "🛰️",
+                "✨"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "તારાઓના પ્રકાશની ગણતરી ઉકેલીને માયાએ ઉપગ્રહ નેટવર્ક સક્રિય કર્યું, જેનાથી પૃથ્વીના બધા વૈજ્ઞાનિકો માટે નવો માર્ગ ખુલ્યો.",
+            "highlight_word": "સંશોધન",
+            "phonics_tip": "સં-શો-ધ-ન નવી વિજ્ઞાન વિદ્યા શોધવાનો સાચો માર્ગ છે!",
+            "interactive_hotspot": {
+              "name": "અવકાશી ઉપગ્રહ",
+              "icon": "🛰️",
+              "sound": "sparkle",
+              "reaction": "ઉપગ્રહે સફળતાપૂર્વક સિગ્નલ મોકલી સ્ટીકર અનલોક કર્યું!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#08152B] via-[#0E2C4A] to-[#1F1042]",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🛰️",
+                "🌍",
+                "⚡",
+                "🌟"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "સપ્તર્ષિ મંડળના કયા બે તારા ધ્રુવ તારા તરફ સીધો માર્ગ બતાવે છે?",
+          "options": [
+            "ક્રતુ અને પુલહ (Merak & Dubhe)",
+            "સૂર્ય અને ચંદ્ર",
+            "રોહિણી અને મૃગશીર્ષ"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "code_pioneer"
+        }
+      },
+      "hi": {
+        "title": "सप्तर्षि नक्षत्र रहस्य: ब्रह्मांडीय दिशा-सूचक",
+        "synopsis": "युवा खगोलशास्त्री माया सप्तर्षि और ध्रुव तारे की स्थिति का अध्ययन कर आकाशीय संदेश को डिकोड करती है।",
+        "lullaby_ambient": "आकाशीय बांसुरी और तारों की गूंजती तरंगे",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "वेधशाला के आधुनिक टेलीस्कोप से माया ने आकाशगंगा के सप्तर्षि तारामंडल पर अपनी दृष्टि केंद्रित की।",
+            "highlight_word": "वेधशाला",
+            "phonics_tip": "वे-ध-शा-ला यानी खगोलीय पिंडों का अध्ययन केंद्र!",
+            "interactive_hotspot": {
+              "name": "खगोलीय टेलीस्कोप",
+              "icon": "🔭",
+              "sound": "chime",
+              "reaction": "टेलीस्कोप से नीली किरणें फूटीं!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#0A0E2A] via-[#141B4D] to-[#25104E]",
+              "accent_color": "#48CAE4",
+              "elements": [
+                "🔭",
+                "✨",
+                "🌌",
+                "🪐"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "क्रतु और पुलह तारे एक सीधी रेखा में स्थिर ध्रुव तारे की ओर इशारा कर रहे थे, जो सदा उत्तर दिशा दिखाता है।",
+            "highlight_word": "ध्रुवतारा",
+            "phonics_tip": "ध्रु-व-ता-रा सदा अटल रहकर दिशा ज्ञान कराता है।",
+            "interactive_hotspot": {
+              "name": "ध्रुव तारा",
+              "icon": "⭐",
+              "sound": "sparkle",
+              "reaction": "स्वर्णिम ज्योति से तारामंडल जगमगा उठा!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#100C2C] via-[#1F144D] to-[#0A1A3A]",
+              "accent_color": "#FFD166",
+              "elements": [
+                "⭐",
+                "📐",
+                "🛰️",
+                "✨"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "गणितीय आवृत्तियों को समझकर माया ने अंतरिक्ष उपग्रह को ऊर्जावान बनाया और नए ज्ञान की खोज पूरी की।",
+            "highlight_word": "आविष्कार",
+            "phonics_tip": "आ-वि-ष्कार लगन और वैज्ञानिक सोच का फल है!",
+            "interactive_hotspot": {
+              "name": "अंतरिक्ष उपग्रह",
+              "icon": "🛰️",
+              "sound": "sparkle",
+              "reaction": "सफलता का संदेश अंतरिक्ष में प्रसारित हुआ!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#08152B] via-[#0E2C4A] to-[#1F1042]",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🛰️",
+                "🌍",
+                "⚡",
+                "🌟"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "सप्तर्षि के कौन से दो तारे ध्रुव तारे की ओर सीधे संकेत करते हैं?",
+          "options": [
+            "क्रतु और पुलह",
+            "सूर्य और चंद्रमा",
+            "लुब्धक और स्वाति"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "code_pioneer"
+        }
+      },
+      "ja": {
+        "title": "北斗七星と 北極星の コスミック コンパス",
+        "synopsis": "天文学者のマヤちゃんと 一緒に 北斗七星の なぞを 解き明かそう！",
+        "lullaby_ambient": "宇宙の しらべと やさしい 琴の ひびき",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "天文台の おおきな 望遠鏡で マヤちゃんは 夜空に ひかる 北斗七星を みつけました。",
+            "highlight_word": "ぼうえんきょう",
+            "phonics_tip": "遠い 宇宙の 星を ちかくで 見る 科学の 道具！",
+            "interactive_hotspot": {
+              "name": "大型望遠鏡",
+              "icon": "🔭",
+              "sound": "chime",
+              "reaction": "望遠鏡の レンズが 青く かがやいた！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#0A0E2A] via-[#141B4D] to-[#25104E]",
+              "accent_color": "#48CAE4",
+              "elements": [
+                "🔭",
+                "✨",
+                "🌌",
+                "🪐"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "ひしゃくの 先にある 2つの 星を のばすと、北の 空で いつも ひかる 北極星に たどりつきます。",
+            "highlight_word": "ほっきょくせい",
+            "phonics_tip": "いつも 北を おしえてくれる たびびとの みちしるべ！",
+            "interactive_hotspot": {
+              "name": "北極星",
+              "icon": "⭐",
+              "sound": "sparkle",
+              "reaction": "金色の ひかりの 線が 星々を つないだ！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#100C2C] via-[#1F144D] to-[#0A1A3A]",
+              "accent_color": "#FFD166",
+              "elements": [
+                "⭐",
+                "📐",
+                "🛰️",
+                "✨"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "星の リズムを 計算して、マヤちゃんは 人工衛星の ビーコンを 起動することに 成功しました！",
+            "highlight_word": "はっけん",
+            "phonics_tip": "ふしぎに おもう 心が 新しい 発見を うむよ！",
+            "interactive_hotspot": {
+              "name": "宇宙衛星",
+              "icon": "🛰️",
+              "sound": "sparkle",
+              "reaction": "宇宙ビーコンが ひかりを はなった！"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#08152B] via-[#0E2C4A] to-[#1F1042]",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🛰️",
+                "🌍",
+                "⚡",
+                "🌟"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "北斗七星の 先の 2つの 星が 指ししめす 星は なあに？",
+          "options": [
+            "北極星 (ポラリス)",
+            "太陽 (サン)",
+            "お月さま (ムーン)"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "code_pioneer"
+        }
+      },
+      "ar": {
+        "title": "سجلات حكماء النجوم السبعة: البوصلة الكونية",
+        "synopsis": "انضم إلى عالمة الفلك الصغيرة ميا وهي ترصد كوكبة بنات نعش والنجم القطبي.",
+        "lullaby_ambient": "أنغام عود كونية هادئة مع رنين النجوم الساحر",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "عبر التلسكوب الفلكي الدقيق في المرصد، وجهت ميا العدسة نحو كوكبة الدب الأكبر الساطعة في سماء الصحراء.",
+            "highlight_word": "المرصد",
+            "phonics_tip": "المرصد الفلكي هو عين العلماء لاستكشاف أسرار الكون!",
+            "interactive_hotspot": {
+              "name": "التلسكوب الفلكي",
+              "icon": "🔭",
+              "sound": "chime",
+              "reaction": "عدسة التلسكوب تشع نوراً أزرق كالنجم!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#0A0E2A] via-[#141B4D] to-[#25104E]",
+              "accent_color": "#48CAE4",
+              "elements": [
+                "🔭",
+                "✨",
+                "🌌",
+                "🪐"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "سبعة نجوم براقة تشير بخط مستقيم نحو النجم القطبي 'الجدي' الذي يرشد القوافل والبحارة في ظلمات الليل.",
+            "highlight_word": "النجم القطبي",
+            "phonics_tip": "النجم القطبي هو البوصلة السماوية الثابتة نحو الشمال.",
+            "interactive_hotspot": {
+              "name": "النجم القطبي",
+              "icon": "⭐",
+              "sound": "sparkle",
+              "reaction": "شعاع ضوئي ذهبي يربط الكواكب والنجوم!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#100C2C] via-[#1F144D] to-[#0A1A3A]",
+              "accent_color": "#FFD166",
+              "elements": [
+                "⭐",
+                "📐",
+                "🛰️",
+                "✨"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "بفك الشفرات الحسابية لترددات النور، أطلقت ميا إشارة القمر الصناعي لتنير دروب المستكشفين في كل مكان.",
+            "highlight_word": "استكشاف",
+            "phonics_tip": "الاستكشاف العلمي يبدأ بسؤال وفضول لا ينتهي!",
+            "interactive_hotspot": {
+              "name": "القمر الصناعي",
+              "icon": "🛰️",
+              "sound": "sparkle",
+              "reaction": "موجات فضائية مشعة تطلق شارة التفوق!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#08152B] via-[#0E2C4A] to-[#1F1042]",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🛰️",
+                "🌍",
+                "⚡",
+                "🌟"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "أي نجم سماوي ترشدنا إليه كوكبة الدب الأكبر لمعرفة اتجاه الشمال؟",
+          "options": [
+            "النجم القطبي (Polaris)",
+            "الشمس الدافئة",
+            "كوكب المريخ الأحمر"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "code_pioneer"
+        }
+      },
+      "es": {
+        "title": "Las Crónicas de las Siete Estrellas Sabias: La Brújula Cósmica",
+        "synopsis": "Acompaña a la joven astrónoma Maya a alinear la constelación de la Osa Mayor y la Estrella Polar.",
+        "lullaby_ambient": "Sintetizador cósmico relajante y campanas estelares",
+        "pages": [
+          {
+            "page_num": 1,
+            "text": "A través del telescopio de alta precisión del observatorio, Maya apuntó la lente hacia la majestuosa Osa Mayor.",
+            "highlight_word": "OBSERVATORIO",
+            "phonics_tip": "¡El observatorio es el laboratorio donde los científicos estudian el cosmos!",
+            "interactive_hotspot": {
+              "name": "Telescopio Óptico",
+              "icon": "🔭",
+              "sound": "chime",
+              "reaction": "¡La lente del telescopio brilla con luz celestial azul!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#0A0E2A] via-[#141B4D] to-[#25104E]",
+              "accent_color": "#48CAE4",
+              "elements": [
+                "🔭",
+                "✨",
+                "🌌",
+                "🪐"
+              ]
+            }
+          },
+          {
+            "page_num": 2,
+            "text": "Siete estrellas brillantes forman una brújula en el cielo nocturno, señalando directamente hacia Polaris, la Estrella del Norte.",
+            "highlight_word": "POLARIS",
+            "phonics_tip": "¡Polaris ha guiado a navegantes y exploradores durante miles de años!",
+            "interactive_hotspot": {
+              "name": "Estrella Polar",
+              "icon": "⭐",
+              "sound": "sparkle",
+              "reaction": "¡Un rayo de luz dorada conecta las estrellas en el firmamento!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#100C2C] via-[#1F144D] to-[#0A1A3A]",
+              "accent_color": "#FFD166",
+              "elements": [
+                "⭐",
+                "📐",
+                "🛰️",
+                "✨"
+              ]
+            }
+          },
+          {
+            "page_num": 3,
+            "text": "Al descifrar las frecuencias matemáticas de la luz estelar, Maya activó la red de satélites espaciales.",
+            "highlight_word": "CIENCIA",
+            "phonics_tip": "¡La curiosidad y las matemáticas abren las puertas del universo!",
+            "interactive_hotspot": {
+              "name": "Satélite Cuántico",
+              "icon": "🛰️",
+              "sound": "sparkle",
+              "reaction": "¡Ondas cuánticas desbloquean la insignia de Explorador Estelar!"
+            },
+            "scene_visual": {
+              "bg_gradient": "from-[#08152B] via-[#0E2C4A] to-[#1F1042]",
+              "accent_color": "#06D6A0",
+              "elements": [
+                "🛰️",
+                "🌍",
+                "⚡",
+                "🌟"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "question": "¿Hacia qué estrella guía la alineación de la Osa Mayor?",
+          "options": [
+            "La Estrella Polar (Polaris)",
+            "El planeta Marte",
+            "La Luna llena"
+          ],
+          "correctIndex": 0,
+          "reward_sticker": "code_pioneer"
+        }
+      }
+    }
+  }
+]
